@@ -5,6 +5,7 @@
 pip install -r requirements.txt
 python main.py
 ```
+**Link** - https://github.com/spsokhi/battlecity-py.git
 
 **Controls**
 - Menu: Enter = Start, Esc = Quit
