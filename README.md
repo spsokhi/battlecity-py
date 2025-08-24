@@ -1,4 +1,4 @@
-# Battle City (Python/Pygame) — Starter Clone (Menu + BFS Enemies)
+# Battle City (Python/Pygame) — Clone
 
 **Run:**
 ```bash
